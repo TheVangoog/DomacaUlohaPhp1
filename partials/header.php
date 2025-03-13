@@ -29,7 +29,7 @@ http://www.templatemo.com/tm-476-conquer
 			<div class="single-page-nav sticky-wrapper" id="tmNavbar">
 				<ul class="nav navbar-nav">
 					<?php
-            $pages = array('Homepage' => '#section1', 'About Us' => '#section2', 'Services' => '#section3', 'Contact' => '#section4', 'External' => 'http://www.google.com');
+            $pages = array('Homepage' => '#section1', 'About Us' => '#section2', 'Services' => '#section3', 'Contact' => '#section4', 'External' => 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley');
             echo(getMenu($pages));
             ?>
 				</ul>
